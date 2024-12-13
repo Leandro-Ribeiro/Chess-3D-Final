@@ -18,4 +18,4 @@ Roda do mouse - Rodar o ângulo de visão
 
 [Modelos 3D Finais](https://www.cgtrader.com/free-3d-models/various/various-models/chess-5d2b0f05-94e8-494d-b5f7-872cdf9b2f6f)
 
-[Textura]([https://www.pexels.com/photo/brown-wooden-surface-129733/](https://www.myfreetextures.com/seamless-wood-texture/))
+[Textura]([https://www.pexels.com/photo/brown-wooden-surface-129733/])

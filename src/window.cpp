@@ -200,28 +200,28 @@ void Window::onCreate() {
 
   m_pawn.loadObj(assetsPath + "pawn_hd.obj",false);
   m_pawn.setupVAO(m_programs.at(m_currentProgramIndex));
-  m_pawn.loadDiffuseTexture(assetsPath + "Table_tex.jpg");
+  m_pawn.loadDiffuseTexture(assetsPath + "Table_tex.png");
   m_rook.loadObj(assetsPath + "rook_hd.obj",false);
   m_rook.setupVAO(m_programs.at(m_currentProgramIndex));
-  m_rook.loadDiffuseTexture(assetsPath + "Table_tex.jpg");
+  m_rook.loadDiffuseTexture(assetsPath + "Table_tex.png");
   m_knight.loadObj(assetsPath + "knight_hd.obj",false);
   m_knight.setupVAO(m_programs.at(m_currentProgramIndex));
-  m_knight.loadDiffuseTexture(assetsPath + "Table_tex.jpg");
+  m_knight.loadDiffuseTexture(assetsPath + "Table_tex.png");
   m_bishop.loadObj(assetsPath + "bishop_hd.obj",false);
   m_bishop.setupVAO(m_programs.at(m_currentProgramIndex));
-  m_bishop.loadDiffuseTexture(assetsPath + "Table_tex.jpg");
+  m_bishop.loadDiffuseTexture(assetsPath + "Table_tex.png");
   m_queen.loadObj(assetsPath + "queen_hd.obj",false);
   m_queen.setupVAO(m_programs.at(m_currentProgramIndex));
-  m_queen.loadDiffuseTexture(assetsPath + "Table_tex.jpg");
+  m_queen.loadDiffuseTexture(assetsPath + "Table_tex.png");
   m_king.loadObj(assetsPath + "king_hd.obj",false);
   m_king.setupVAO(m_programs.at(m_currentProgramIndex));
-  m_king.loadDiffuseTexture(assetsPath + "Table_tex.jpg");
+  m_king.loadDiffuseTexture(assetsPath + "Table_tex.png");
 
   m_tile.loadObj(assetsPath + "tile.obj",false);
   m_tile.setupVAO(m_programs.at(m_currentProgramIndex));
-  m_tile.loadDiffuseTexture(assetsPath + "Table_tex.jpg");
+  m_tile.loadDiffuseTexture(assetsPath + "Table_tex.png");
 
-  m_mappingMode = 1;
+  m_mappingMode = 3;
   abcg::glEnable(GL_CULL_FACE);
   
   float x,y;

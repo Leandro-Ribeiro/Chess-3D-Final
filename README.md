@@ -4,7 +4,7 @@
 
 Projeto feito em OpenGL com a biblioteca ABCg.
 
-[Link para testar o programa no navegador](https://leandro-ribeiro.github.io/Chess-3D-Final/Projeto_Final/)
+[Link para testar o programa no navegador](https://leandro-ribeiro.github.io/Chess-3D-Final/Projeto)
 
 ## Controles:
 Setas - mover a seleção de quadrado
